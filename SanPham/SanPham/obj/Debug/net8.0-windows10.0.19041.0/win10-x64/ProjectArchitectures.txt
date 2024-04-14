@@ -1,0 +1,1 @@
+C:\Users\ad\source\repos\SanPham\SanPham\SanPham.csproj;x64
